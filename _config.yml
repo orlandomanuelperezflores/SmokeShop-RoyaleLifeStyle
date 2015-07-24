@@ -1,0 +1,3 @@
+name: Orlando Perez
+markdown: redcarpet
+exclude: ["node_modules", "gulpgile.js", "package.jsonS"] 
